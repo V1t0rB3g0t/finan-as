@@ -1,0 +1,13 @@
+node_modules
+.env
+storage
+backend/storage
+backend/tmp
+mobile/.dart_tool
+mobile/build
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.metadata
+mobile/.idea
+mobile/.vscode
+mobile/pubspec.lock
